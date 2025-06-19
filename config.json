@@ -13,18 +13,18 @@
     "eventDisabled": [
         "join.js"
     ],
-    "EMAIL": "",
-    "PASSWORD": "",
+    "EMAIL": "loverchocolate996@gmail.com",
+    "PASSWORD": "@loverchocolate-996",
     "OTPKEY": "",
     "BOTNAME": "HINATA 🔴",
     "PREFIX": "!",
     "ADMINBOT": [
-        "",
+        "100093021476757",
         "",
         ""
     ],
     "NDH": [
-        ""
+        "100093021476757"
     ],
     "DATABASE": {
         "sqlite": {
